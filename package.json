@@ -1,0 +1,26 @@
+{
+  "name": "despliegue",
+  "version": "1.0.0",
+  "description": "Archivo de inicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astduq/despliegue2627.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astduq/despliegue2627/issues"
+  },
+  "homepage": "https://github.com/Astduq/despliegue2627#readme",
+  "devDependencies": {
+    "eslint": "^10.14.0",
+    "html-validate": "^9.7.1",
+    "jest": "^30.5.2",
+    "stylelint": "^17.16.0"
+  }
+}
