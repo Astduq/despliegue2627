@@ -11,6 +11,7 @@ function validate() {
   let valid = true;
   const emailErr = document.getElementById('emailError');
   const pwdErr   = document.getElementById('pwdError');
+  module.exports = { validate };
   emailErr.textContent = '';
   pwdErr.textContent   = '';
   if (!emailEl.value.match(/^[^\s@]+@[^\s@]+\.[^\s@]+$/)) {
